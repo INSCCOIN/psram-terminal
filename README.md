@@ -35,9 +35,8 @@ It is designed for **limited GPIO availability**, working only with these allowe
 - 8-bit checksum calculation over arbitrary memory regions
 
 Planned extensions:
-- ➡ CRC16/CRC32 for stronger integrity checks
-- ➡ Burst-mode writes for faster block fills
-- ➡ Memory compare tool
+- CRC16/CRC32 for stronger integrity checks
+- Memory compare tool (NOT COMMAND)
 
 ---
 
