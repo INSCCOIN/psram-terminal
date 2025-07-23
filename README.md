@@ -28,11 +28,11 @@ It is designed for **limited GPIO availability**, working only with these allowe
 
 ## Features Implemented
 
-- ✅ Single-byte read/write to any PSRAM address
-- ✅ Block fill with a constant value
-- ✅ Hex dump for visualizing memory contents
-- ✅ Pointer-based stepping (set pointer + dump relative)
-- ✅ 8-bit checksum calculation over arbitrary memory regions
+- Single-byte read/write to any PSRAM address
+- Block fill with a constant value
+- Hex dump for visualizing memory contents
+- Pointer-based stepping (set pointer + dump relative)
+- 8-bit checksum calculation over arbitrary memory regions
 
 Planned extensions:
 - ➡ CRC16/CRC32 for stronger integrity checks
